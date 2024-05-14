@@ -190,12 +190,12 @@ We read this equation as $f(n)$ is a tight bound for $T(n)$ if and only if the r
 $T(n)$.
 
 ### Ending notes
-I want to make note that these ways of determining upper bounding and lower bounding functions aren't the only ones, there are more practical and easier ways to determine these functions. Most of them revolve around finding if the limit of the quotient of a upper / lower bounding function converges to some value or diverges to infinity.
+I want to make note that these ways of determining upper bounding and lower bounding functions aren't the only ones, there are more practical and easier ways to calculate these functions. Most of them revolve around calculating the limit of the quotient of a upper / lower bounding function and seeing if it converges to some value or diverges to infinity.
 
-For a list of these notations to determine these functions can be founded here: https://web.mit.edu/broder/Public/asymptotics-cheatsheet.pdf 
+A list of applicable formulas can be found: https://web.mit.edu/broder/Public/asymptotics-cheatsheet.pdf 
 
 You can test the formulas here: https://www.wolframalpha.com/input.
 
-Another concept I want to mention is a different way of thinking of these asymptotic notations, it's more intutitive to think of them as sets of functions. Big O being a set of upper bounding functions in relation to $T(n)$, big Omega being a set of lower bounding functions in relation to $T(n)$, and we can think of theta is an intersection of both upper bound and lower bound sets.
+Another concept I want to mention is a different way of thinking of these asymptotic notations, it's more intutitive to think of them as sets of functions. Big O being a set of upper bounding functions in relation to $T(n)$, big omega being a set of lower bounding functions in relation to $T(n)$, and we can think of theta is an intersection of both upper bound and lower bound sets.
 
 If you notice any grammatical issues or wrong information please contact me through an issue on my github repository for the website.
