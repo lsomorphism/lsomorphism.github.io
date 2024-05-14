@@ -2,7 +2,7 @@
 title: "Arduous"
 ---
 
-Hello, I am Layta. I am 17 years old (as of 2023) and I am primarily interested in:
+Hello, I am primarily interested in:
   * CS (computer science)
   * CS theory
   * Compilers
@@ -20,3 +20,4 @@ My primary languages I've worked with are (listed in most known - least known):
 This website is for posting blogs about whatever I find interesting or something that's complex that I feel needs to be broken down.
 
 You can find all my posts [here](/posts).
+
